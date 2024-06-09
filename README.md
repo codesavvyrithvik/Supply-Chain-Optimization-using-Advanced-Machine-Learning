@@ -13,3 +13,5 @@ SoC project | WnCC, IIT Bombay
 ## Week 1 Resources : Machine Learning and Deep Learning
 ### [Google ML Course](https://developers.google.com/machine-learning/crash-course/ml-intro) 
 ### Andrew NG's courses on [ML](https://www.coursera.org/learn/machine-learning) and [DL](https://www.coursera.org/specializations/deep-learning): Time taking
+### 
+### Completed by 12 Jun 2024
