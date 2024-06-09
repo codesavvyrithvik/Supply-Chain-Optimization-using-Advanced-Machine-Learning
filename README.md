@@ -2,7 +2,7 @@
 SoC project | WnCC, IIT Bombay
 
 # Progress Document
-### [Link Here](https://docs.google.com/document/d/1RpSe5-971cH2-M__bsrjEvDfOb5-x0IEJeTDgaBnMDQ/edit?usp=sharing)
+### [SoC Progress Document](https://docs.google.com/document/d/1RpSe5-971cH2-M__bsrjEvDfOb5-x0IEJeTDgaBnMDQ/edit?usp=sharing)
 
 ## Week 0 Resources : Python Basics and Starting with ML
 ### [Python Basics and OOP](https://www.youtube.com/watch?v=_uQrJ0TkZlc&ab_channel=ProgrammingwithMosh) : Watch till 3:55:00 
